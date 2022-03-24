@@ -4,7 +4,7 @@
 Leonardo Mercado Celis 19211685
 
 Se tenian que hacer 10 programas en c++ en caso de no hacer uno de los 10 asignados se podia intercambiar por 3 de los capitulos 3 a 5. 
-Programas hechos: <br>     
+Programas hechos: <br>       
 44
 45
 46
