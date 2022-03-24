@@ -1,4 +1,4 @@
-![cooltext407202400216086](https://user-images.githubusercontent.com/81432796/159877180-56362515-09e2-48c2-9adf-6166930ac08a.gif)
+
 ![cooltext407202333483047](https://user-images.githubusercontent.com/81432796/159877189-96e92914-8f91-4e25-800e-7da995306c43.png)
 
 Leonardo Mercado Celis 19211685
