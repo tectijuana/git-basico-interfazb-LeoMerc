@@ -2,7 +2,7 @@
 using namespace std;
 
 /**problema 44
- * Pretende depositar 1000 en una cuenta de ahorros y dejarlos durante 10 anios acumulando intereses,
+ * Pretende depositar $1000 en una cuenta de ahorros y dejarlos durante 10 anios acumulando intereses,
  * el banco A compone el interes en sus cuentas de ahorros anualmente;
  * en B semestralmente; el C trimestralmente y el D mensualmente.
  *  Los bancos A y B pagan tasas de interes del 6.25%; el C, 6% y el D 5.75%
