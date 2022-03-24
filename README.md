@@ -5,4 +5,18 @@ Leonardo Mercado Celis 19211685
 
 Se tenian que hacer 10 programas en c++ en caso de no hacer uno de los 10 asignados se podia intercambiar por 3 de los capitulos 3 a 5.  <br>  
 Programas hechos:       
-44  <br>  45 <br>  46 <br>   47 <br>  48 <br>  50 <br>  51 <br>  52 <br>  Para sustituir al 49 y 53 <br>  Capitulo 3 programa 2  <br>  Capitulo 3 programa 8 <br>  Capitulo 3 programa 9 <br>   Capitulo 3 programa 18 <br>  Capitulo 3 programa 20 <br>  Capitulo 3 programa 28 <br>   
+* 44  
+* 45  
+* 46
+* 47
+* 48
+* 50
+* 51
+* 52
+* Para sustituir al 49 y 53
+* Capitulo 3 programa 2 
+* Capitulo 3 programa 8
+* Capitulo 3 programa 9
+* Capitulo 3 programa 18
+* Capitulo 3 programa 20 
+* Capitulo 3 programa 28    
