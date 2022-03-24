@@ -15,8 +15,8 @@ using namespace std;
  * primeros 72 meses
  * */
 
-//@Author   LeoMerc
-//@Date     3/20/2022
+//@Author    LeoMerc
+//@Date      3/20/2022
 
 int main()
 {
