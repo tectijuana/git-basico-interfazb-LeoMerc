@@ -20,3 +20,13 @@ Capitulo 3 programa 9
 Capitulo 3 programa 18 
 Capitulo 3 programa 20
 Capitulo 3 programa 28
+55
+57
+58
+59
+60
+61
+62
+63
+64
+65
