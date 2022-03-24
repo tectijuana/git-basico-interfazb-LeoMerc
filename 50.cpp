@@ -13,13 +13,14 @@ using namespace std;
 //@Author   LeoMerc
 //@Date     3/20/2022
 
-
-double TrimestralC(double deposito, int anios, double tasaC){
+double TrimestralC(double deposito, int anios, double tasaC)
+{
     double interes;
-    tasaC = tasaC / 100; 
-    int trimestres = anios * 4; 
+    tasaC = tasaC / 100;
+    int trimestres = anios * 4;
 
-    for (int x = 0; x<trimestres; x++){
+    for (int x = 0; x < trimestres; x++)
+    {
 
         interes = deposito * tasaC;
         deposito += interes;
@@ -27,11 +28,13 @@ double TrimestralC(double deposito, int anios, double tasaC){
     return deposito;
 }
 
-double AnualA(double deposito, int anios, double tasaD){
+double AnualA(double deposito, int anios, double tasaD)
+{
     double interes;
-    tasaD = tasaD / 100; 
+    tasaD = tasaD / 100;
 
-    for (int x = 0; x<anios; x++){
+    for (int x = 0; x < anios; x++)
+    {
 
         interes = deposito * tasaD;
         deposito += interes;
@@ -39,27 +42,25 @@ double AnualA(double deposito, int anios, double tasaD){
     return deposito;
 }
 
+int main()
+{
+    double deposito = 200, tasaC = 6, tasaD = 6.25;
+    int anios = 25;
+    double finalC, finalD;
 
+    finalC = TrimestralC(deposito, anios, tasaC);
+    cout << finalC << endl;
 
+    finalD = AnualA(deposito, anios, tasaD);
+    cout << finalD << endl;
 
-int main() {
-double deposito = 200, tasaC = 6, tasaD =6.25; int anios = 25; 
-double finalC, finalD; 
+    if (finalC > finalD)
+    {
+        cout << "Es mejor invertir por trimestres a una tasa de 6%";
+    }
 
-
-finalC = TrimestralC(deposito, anios, tasaC); 
-cout << finalC <<endl; 
-
-finalD = AnualA(deposito, anios, tasaD); 
-cout << finalD <<endl; 
-
-if (finalC>finalD){
-    cout << "Es mejor invertir por trimestres a una tasa de 6%";
+    if (finalC < finalD)
+    {
+        cout << "Es mejor invertir anualmente a una tasa de 6.25%";
+    }
 }
-
-if (finalC<finalD){
-    cout << "Es mejor invertir anualmente a una tasa de 6.25%";
-}
-}
-
-

@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
-    int a, perimetro;
+    int  a, perimetro;
     cout << "Ingrese el lado a: " << endl;
     cin >> a;
 

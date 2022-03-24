@@ -29,6 +29,5 @@ int main()
         num++;
         cout << num << "\t\t" << hipoteca << "\t\t" << interesactual << "\t" << razon << "\t" << endl;
 
-        
     } while (hipoteca > 0);
 }

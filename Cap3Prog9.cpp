@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-    int respuesta;
+    int  respuesta;
     double A, B, C;
     cout << "Quiere descubrir un cateto(1) o hipotenusa(2)? ";
     cin >> respuesta;
